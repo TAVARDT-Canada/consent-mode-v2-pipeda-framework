@@ -1,45 +1,45 @@
 # Consent Mode v2 & PIPEDA / Bill C-27 Framework | TAVARDT Canada
 
-[![Validador de Consentimento](https://img.shields.io/badge/TAVARDT-Diagn%C3%B3stico%20T%C3%A9cnico-5b3cf5.svg)](https://tools.tavardt.com/ca/consent-mode-v2-checker/)
-[![Conformidade](https://img.shields.io/badge/Jurisdi%C3%A7%C3%A3o-Canada-00C853.svg)](https://ag.tavardt.com/ca/cybersecurity/)
+[![Technical%20Audit](https://img.shields.io/badge/TAVARDT-Technical%20Audit-5b3cf5.svg)](https://tools.tavardt.com/ca/consent-mode-v2-checker/)
+[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-Canada-00C853.svg)](https://ag.tavardt.com/ca/cybersecurity/)
 
-Google Consent Mode v2 implementation, tag governance, and PIPEDA / Bill C-27 (CPPA) compliance framework for Canadian enterprises.
+Technical implementation of Google Consent Mode v2 aligned with the Office of the Privacy Commissioner of Canada, PIPEDA, and Bill C-27 requirements.
 
-Desenvolvido e mantido pela divisão de privacidade digital e engenharia de dados da **[TAVARDT Canada](https://ag.tavardt.com/ca/)**.
+Developed and maintained by the cybersecurity and infrastructure defense division of **[TAVARDT Canada](https://ag.tavardt.com/ca/)**.
 
 ---
 
-## 1. Execution Order & Architecture
+## 1. Execution Order and Architecture
 
-Embed this script within the `<head>` of your website immediately prior to loading Google Tag Manager or analytics containers:
+To guarantee strict alignment with Canadian privacy principles, deploy this script in the <head> before Google Tag Manager loads:
 
 ```html
 <script src="consent-mode-v2.js"></script>
-<!-- O contentor do Google Tag Manager ou scripts de medição seguem aqui -->
+<!-- Google Tag Manager / measurement scripts execute here -->
 ```
 
 ---
 
 ## 2. Technical Capabilities
 
-* **Denied by Default:** Initializes ad and analytics storage parameters to 'denied' prior to user interaction.
-* **Event-Driven Consent Update:** Provides window.tavardtUpdateConsent() to communicate consent signals via the dataLayer.
-* **Data Redaction Enforcement:** Enforces ads_data_redaction to eliminate click parameters when marketing consent is absent.
-* **URL Parameter Protection:** Enables url_passthrough to preserve measurement without persistent client storage.
+* **Default Denied Baseline:** ad_storage and analytics_storage strictly set to denied pending meaningful consent.
+* **Synchronized State API:** Window-level window.tavardtConsent.update() API emitting consent events to dataLayer.
+* **Ad Data Redaction:** Enforced ads_data_redaction preventing cross-site identifier disclosure.
+* **URL Parameter Passthrough:** Enabled url_passthrough for aggregate attribution without persistent browser tracking.
 
 ---
 
-## 3. Technical Audit Checklist
+## 3. Compliance Checklist & Documentation
 
-Consulte a lista detalhada de requisitos técnicos para este país:
+Review the comprehensive technical requirements for Canada:
 
-* [Checklist Técnico de Conformidade](checklist.md)
+* [Checklist](https://tools.tavardt.com/ca/consent-mode-v2-checker/)
 
 ---
 
 ## 4. Online Diagnostic Tools (Canada)
 
-Audite a conformidade das suas etiquetas e proteja o seu domínio com ferramentas online verificadas:
+Audit the public perimeter of your systems using the TAVARDT technical verification suite:
 
 * [Consent Mode v2 & PIPEDA Validator](https://tools.tavardt.com/ca/consent-mode-v2-checker/)
 * [HTTP Security Headers Checker](https://tools.tavardt.com/ca/security-headers-check/)
@@ -49,6 +49,6 @@ Audite a conformidade das suas etiquetas e proteja o seu domínio com ferramenta
 
 ---
 
-## 5. Tag Governance & Privacy Advisory
+## 5. Technical Advisory & Remediation
 
-For tag architecture audits, PIPEDA compliance, and analytics engineering in Canada, contact **[TAVARDT Canada](https://ag.tavardt.com/ca/contact/)**.
+For enterprise tag audits, Canadian privacy framework alignment, and cyber defense consulting, contact **[TAVARDT Canada](https://ag.tavardt.com/ca/contact/)**.
