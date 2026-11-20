@@ -1,0 +1,7 @@
+{
+  "name": "@tavardt-ca/consent-mode-v2-framework",
+  "version": "1.0.0",
+  "description": "Google Consent Mode v2 implementation, tag governance, and PIPEDA / Bill C-27 technical compliance framework for Canadian enterprises.",
+  "license": "MIT",
+  "author": "TAVARDT Canada (https://ag.tavardt.com/ca/)"
+}
