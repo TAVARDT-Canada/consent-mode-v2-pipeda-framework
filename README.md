@@ -1,4 +1,4 @@
-# Consent Mode v2 & PIPEDA / Bill C-27 Framework | TAVARDT Canada
+# Consent Mode v2 & PIPEDA / Bill C-27 Framework
 
 [![Technical%20Audit](https://img.shields.io/badge/TAVARDT-Technical%20Audit-5b3cf5.svg)](https://tools.tavardt.com/ca/consent-mode-v2-checker/)
 Technical implementation of Google Consent Mode v2 aligned with the Office of the Privacy Commissioner of Canada, PIPEDA, and Bill C-27 requirements.
@@ -50,3 +50,7 @@ Audit the public perimeter of your systems using the TAVARDT technical verificat
 ## 5. Technical Advisory & Remediation
 
 For enterprise tag audits, Canadian privacy framework alignment, and cyber defense consulting, contact **TAVARDT Canada**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
