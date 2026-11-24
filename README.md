@@ -3,7 +3,7 @@
 [![Technical%20Audit](https://img.shields.io/badge/TAVARDT-Technical%20Audit-5b3cf5.svg)](https://tools.tavardt.com/ca/consent-mode-v2-checker/)
 Technical implementation of Google Consent Mode v2 aligned with the Office of the Privacy Commissioner of Canada, PIPEDA, and Bill C-27 requirements.
 
-Developed and maintained by the cybersecurity and infrastructure defense division of **TAVARDT Canada**.
+Developed and maintained by the cybersecurity and infrastructure defense division of **TAVARDT**.
 
 ***
 
@@ -49,7 +49,7 @@ Audit the public perimeter of your systems using the TAVARDT technical verificat
 
 ## 5. Technical Advisory & Remediation
 
-For enterprise tag audits, Canadian privacy framework alignment, and cyber defense consulting, contact **TAVARDT Canada**.
+For enterprise tag audits, Canadian privacy framework alignment, and cyber defense consulting, contact **TAVARDT**.
 
 ***
 
