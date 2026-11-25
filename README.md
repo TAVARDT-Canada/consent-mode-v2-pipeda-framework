@@ -28,32 +28,23 @@ To guarantee strict alignment with Canadian privacy principles, deploy this scri
 
 ***
 
-## 3. Compliance Checklist & Documentation
-
-Review the comprehensive technical requirements for Canada:
-
-* Checklist
-
-***
-
-## 4. Online Diagnostic Tools (Canada)
+## 3. Online Diagnostic Tools (Canada)
 
 Audit the public perimeter of your systems using the TAVARDT technical verification suite:
 
 * [HTTP Security Headers Checker](https://tools.tavardt.com/ca/security-headers-check/)
 * [DMARC & Anti-Spoofing Verifier](https://tools.tavardt.com/ca/dmarc-checker/)
 * [Exposed Credentials & Secret Scanner](https://tools.tavardt.com/ca/exposed-files-scanner/)
-* [Full Canadian Tools Portal](https://tools.tavardt.com/ca/)
 
 ***
 
-## 5. Technical Advisory & Remediation
+## 4. Technical Advisory & Remediation
 
 For enterprise tag audits, Canadian privacy framework alignment, and cyber defense consulting, contact **TAVARDT**.
 
 ***
 
-## Useful Links
+## 5. Useful Links
 
 * **Corporate Portal:** https://ag.tavardt.com/ca/
 * **Diagnostic Suite:** https://tools.tavardt.com/ca/
