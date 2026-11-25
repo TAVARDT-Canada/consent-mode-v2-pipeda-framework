@@ -1,6 +1,9 @@
 # Consent Mode v2 & PIPEDA / Bill C-27 Framework
 
-[![Technical%20Audit](https://img.shields.io/badge/TAVARDT-Technical%20Audit-5b3cf5.svg)](https://tools.tavardt.com/ca/consent-mode-v2-checker/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Technical Audit](https://img.shields.io/badge/TAVARDT-Technical%20Audit-5b3cf5.svg)](https://tools.tavardt.com/ca/consent-mode-v2-checker/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Node.js-yellow.svg)](https://nodejs.org/)
+
 Technical implementation of Google Consent Mode v2 aligned with the Office of the Privacy Commissioner of Canada, PIPEDA, and Bill C-27 requirements.
 
 Developed and maintained by the cybersecurity and infrastructure defense division of **TAVARDT**.
@@ -58,6 +61,11 @@ For enterprise tag audits, Canadian privacy framework alignment, and cyber defen
 * **Corporate Portal:** https://ag.tavardt.com/ca/
 * **Diagnostic Suite:** https://tools.tavardt.com/ca/
 * **Technical Contact:** https://ag.tavardt.com/ca/contact/
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
